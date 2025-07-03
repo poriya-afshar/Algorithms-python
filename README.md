@@ -7,9 +7,11 @@
 
 
 
- Currently, these two algorithms exist.
+ Currently, these four algorithms exist
 
 
 
 1. merge_sort.py
 2. Binary Search.py
+3. bubblie_sort.py
+4. selection_sort.py
