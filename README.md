@@ -2,12 +2,12 @@
 
 
 
-### These algorithms are updated every week. If you like, you can also participate in this work
+## These algorithms are updated every week. If you like, you can also participate in this work
 
 
 
 
- Currently, these four algorithms exist
+### Currently, these algorithms exist
 
 
 
@@ -15,3 +15,4 @@
 2. Binary Search.py
 3. bubblie_sort.py
 4. selection_sort.py
+5. Linear Search.py
